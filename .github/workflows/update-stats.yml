@@ -32,9 +32,10 @@ jobs:
           # Add it in: repo Settings → Secrets and variables → Actions → New repository secret
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
 
-          # GITHUB_USERNAME: your GitHub username (non-sensitive)
+          # GH_USERNAME: your GitHub username (non-sensitive)
           # Add it in: repo Settings → Secrets and variables → Actions → Variables tab
-          GITHUB_USERNAME: ${{ vars.GITHUB_USERNAME }}
+          # Note: GitHub reserves the GITHUB_ prefix, so we use GH_USERNAME instead
+          GITHUB_USERNAME: ${{ vars.GH_USERNAME }}
 
           OUTPUT_FILE: stats.svg
           TOP_N: '10'

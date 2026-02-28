@@ -107,7 +107,7 @@ The script is validated by running it locally with a real token before deploying
    | Tab | Name | Value |
    |---|---|---|
    | Secrets | `STATS_TOKEN` | Your PAT |
-   | Variables | `GITHUB_USERNAME` | Your GitHub username |
+   | Variables | `GH_USERNAME` | Your GitHub username (`GITHUB_` prefix is reserved by GitHub) |
 
 4. Trigger the first run manually: **Actions → Update Language Stats → Run workflow**.
    After ~1 minute, `stats.svg` is committed to the repo.
