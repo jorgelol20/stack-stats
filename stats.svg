@@ -35,16 +35,18 @@
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="373.59" height="10" fill="#3178c6" />
-    <rect x="393.59" y="52" width="59.42" height="10" fill="#f1e05a" />
-    <rect x="453.01" y="52" width="10.53" height="10" fill="#563d7c" />
-    <rect x="463.54" y="52" width="3.87" height="10" fill="#e34c26" />
-    <rect x="467.41" y="52" width="2.61" height="10" fill="#ff5a03" />
-    <rect x="470.02" y="52" width="2.00" height="10" fill="#AA6746" />
-    <rect x="472.02" y="52" width="2.00" height="10" fill="#3572A5" />
-    <rect x="474.02" y="52" width="2.00" height="10" fill="#844FBA" />
-    <rect x="476.02" y="52" width="2.00" height="10" fill="#b07219" />
-    <rect x="478.02" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="20.00" y="52" width="373.38" height="10" fill="#3178c6" />
+    <rect x="393.38" y="52" width="59.39" height="10" fill="#f1e05a" />
+    <rect x="452.76" y="52" width="10.52" height="10" fill="#563d7c" />
+    <rect x="463.29" y="52" width="3.87" height="10" fill="#e34c26" />
+    <rect x="467.16" y="52" width="2.61" height="10" fill="#ff5a03" />
+    <rect x="469.77" y="52" width="2.00" height="10" fill="#AA6746" />
+    <rect x="471.77" y="52" width="2.00" height="10" fill="#3572A5" />
+    <rect x="473.77" y="52" width="2.00" height="10" fill="#844FBA" />
+    <rect x="475.77" y="52" width="2.00" height="10" fill="#b07219" />
+    <rect x="477.77" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="479.77" y="52" width="2.00" height="10" fill="#89e051" />
+    <rect x="481.77" y="52" width="2.00" height="10" fill="#384d54" />
   </g>
 
   <!-- Legend -->
@@ -52,12 +54,12 @@
     <g transform="translate(20, 76)">
       <circle cx="5" cy="5" r="5" fill="#3178c6" />
       <text x="14" y="9" class="lang-name">TypeScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">82.11%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">82.06%</text>
     </g>
     <g transform="translate(171.66666666666666, 76)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
       <text x="14" y="9" class="lang-name">JavaScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">13.06%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">13.05%</text>
     </g>
     <g transform="translate(323.3333333333333, 76)">
       <circle cx="5" cy="5" r="5" fill="#563d7c" />
@@ -98,5 +100,15 @@
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
       <text x="14" y="9" class="lang-name">PLpgSQL</text>
       <text x="14" y="9" class="lang-pct" dx="50.4">0.12%</text>
+    </g>
+    <g transform="translate(171.66666666666666, 142)">
+      <circle cx="5" cy="5" r="5" fill="#89e051" />
+      <text x="14" y="9" class="lang-name">Shell</text>
+      <text x="14" y="9" class="lang-pct" dx="36">0.05%</text>
+    </g>
+    <g transform="translate(323.3333333333333, 142)">
+      <circle cx="5" cy="5" r="5" fill="#384d54" />
+      <text x="14" y="9" class="lang-name">Dockerfile</text>
+      <text x="14" y="9" class="lang-pct" dx="72">0.00%</text>
     </g>
 </svg>
