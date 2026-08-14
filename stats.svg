@@ -28,22 +28,22 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Aug 13, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Aug 14, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="227.33" height="10" fill="#f1e05a" />
-    <rect x="247.33" y="52" width="82.90" height="10" fill="#563d7c" />
-    <rect x="330.23" y="52" width="78.97" height="10" fill="#4F5D95" />
-    <rect x="409.20" y="52" width="40.89" height="10" fill="#8b949e" />
-    <rect x="450.09" y="52" width="19.10" height="10" fill="#b07219" />
-    <rect x="469.19" y="52" width="2.72" height="10" fill="#e34c26" />
-    <rect x="471.91" y="52" width="2.00" height="10" fill="#89e051" />
-    <rect x="473.91" y="52" width="2.00" height="10" fill="#384d54" />
-    <rect x="475.91" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="20.00" y="52" width="229.35" height="10" fill="#f1e05a" />
+    <rect x="249.35" y="52" width="82.82" height="10" fill="#563d7c" />
+    <rect x="332.17" y="52" width="77.91" height="10" fill="#4F5D95" />
+    <rect x="410.08" y="52" width="40.34" height="10" fill="#8b949e" />
+    <rect x="450.43" y="52" width="18.84" height="10" fill="#b07219" />
+    <rect x="469.27" y="52" width="2.69" height="10" fill="#e34c26" />
+    <rect x="471.95" y="52" width="2.00" height="10" fill="#89e051" />
+    <rect x="473.95" y="52" width="2.00" height="10" fill="#384d54" />
+    <rect x="475.95" y="52" width="2.00" height="10" fill="#8b949e" />
   </g>
 
   <!-- Legend -->
@@ -51,32 +51,32 @@
     <g transform="translate(20, 76)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
       <text x="14" y="9" class="lang-name">JavaScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">49.96%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">50.41%</text>
     </g>
     <g transform="translate(171.66666666666666, 76)">
       <circle cx="5" cy="5" r="5" fill="#563d7c" />
       <text x="14" y="9" class="lang-name">CSS</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">18.22%</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">18.20%</text>
     </g>
     <g transform="translate(323.3333333333333, 76)">
       <circle cx="5" cy="5" r="5" fill="#4F5D95" />
       <text x="14" y="9" class="lang-name">PHP</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">17.36%</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">17.12%</text>
     </g>
     <g transform="translate(20, 98)">
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
       <text x="14" y="9" class="lang-name">Blade</text>
-      <text x="14" y="9" class="lang-pct" dx="36">8.99%</text>
+      <text x="14" y="9" class="lang-pct" dx="36">8.87%</text>
     </g>
     <g transform="translate(171.66666666666666, 98)">
       <circle cx="5" cy="5" r="5" fill="#b07219" />
       <text x="14" y="9" class="lang-name">Java</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">4.20%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">4.14%</text>
     </g>
     <g transform="translate(323.3333333333333, 98)">
       <circle cx="5" cy="5" r="5" fill="#e34c26" />
       <text x="14" y="9" class="lang-name">HTML</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">0.60%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">0.59%</text>
     </g>
     <g transform="translate(20, 120)">
       <circle cx="5" cy="5" r="5" fill="#89e051" />
@@ -86,7 +86,7 @@
     <g transform="translate(171.66666666666666, 120)">
       <circle cx="5" cy="5" r="5" fill="#384d54" />
       <text x="14" y="9" class="lang-name">Dockerfile</text>
-      <text x="14" y="9" class="lang-pct" dx="72">0.16%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">0.15%</text>
     </g>
     <g transform="translate(323.3333333333333, 120)">
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
