@@ -28,22 +28,22 @@
   <text x="20" y="30" class="title">⚡ Languages Used</text>
 
   <!-- Last updated -->
-  <text x="475" y="30" class="updated" text-anchor="end">Updated Sep 24, 2026</text>
+  <text x="475" y="30" class="updated" text-anchor="end">Updated Sep 25, 2026</text>
 
   <!-- Stacked bar background track -->
   <rect x="20" y="52" width="455" height="10" rx="5" fill="#21262d" />
 
   <!-- Stacked bar segments (clipped to rounded track) -->
   <g clip-path="url(#bar-clip)">
-    <rect x="20.00" y="52" width="220.48" height="10" fill="#f1e05a" />
-    <rect x="240.48" y="52" width="72.89" height="10" fill="#b07219" />
-    <rect x="313.38" y="52" width="69.09" height="10" fill="#4F5D95" />
-    <rect x="382.47" y="52" width="59.60" height="10" fill="#563d7c" />
-    <rect x="442.07" y="52" width="24.90" height="10" fill="#8b949e" />
-    <rect x="466.97" y="52" width="6.15" height="10" fill="#e34c26" />
-    <rect x="473.12" y="52" width="2.00" height="10" fill="#89e051" />
-    <rect x="475.12" y="52" width="2.00" height="10" fill="#384d54" />
-    <rect x="477.12" y="52" width="2.00" height="10" fill="#8b949e" />
+    <rect x="20.00" y="52" width="231.42" height="10" fill="#f1e05a" />
+    <rect x="251.42" y="52" width="66.68" height="10" fill="#b07219" />
+    <rect x="318.10" y="52" width="65.26" height="10" fill="#4F5D95" />
+    <rect x="383.36" y="52" width="61.52" height="10" fill="#563d7c" />
+    <rect x="444.88" y="52" width="22.78" height="10" fill="#8b949e" />
+    <rect x="467.65" y="52" width="5.63" height="10" fill="#e34c26" />
+    <rect x="473.28" y="52" width="2.00" height="10" fill="#89e051" />
+    <rect x="475.28" y="52" width="2.00" height="10" fill="#384d54" />
+    <rect x="477.28" y="52" width="2.00" height="10" fill="#8b949e" />
   </g>
 
   <!-- Legend -->
@@ -51,37 +51,37 @@
     <g transform="translate(20, 76)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
       <text x="14" y="9" class="lang-name">JavaScript</text>
-      <text x="14" y="9" class="lang-pct" dx="72">48.46%</text>
+      <text x="14" y="9" class="lang-pct" dx="72">50.86%</text>
     </g>
     <g transform="translate(171.66666666666666, 76)">
       <circle cx="5" cy="5" r="5" fill="#b07219" />
       <text x="14" y="9" class="lang-name">Java</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">16.02%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">14.66%</text>
     </g>
     <g transform="translate(323.3333333333333, 76)">
       <circle cx="5" cy="5" r="5" fill="#4F5D95" />
       <text x="14" y="9" class="lang-name">PHP</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">15.19%</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">14.34%</text>
     </g>
     <g transform="translate(20, 98)">
       <circle cx="5" cy="5" r="5" fill="#563d7c" />
       <text x="14" y="9" class="lang-name">CSS</text>
-      <text x="14" y="9" class="lang-pct" dx="21.6">13.10%</text>
+      <text x="14" y="9" class="lang-pct" dx="21.6">13.52%</text>
     </g>
     <g transform="translate(171.66666666666666, 98)">
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
       <text x="14" y="9" class="lang-name">Blade</text>
-      <text x="14" y="9" class="lang-pct" dx="36">5.47%</text>
+      <text x="14" y="9" class="lang-pct" dx="36">5.01%</text>
     </g>
     <g transform="translate(323.3333333333333, 98)">
       <circle cx="5" cy="5" r="5" fill="#e34c26" />
       <text x="14" y="9" class="lang-name">HTML</text>
-      <text x="14" y="9" class="lang-pct" dx="28.8">1.35%</text>
+      <text x="14" y="9" class="lang-pct" dx="28.8">1.24%</text>
     </g>
     <g transform="translate(20, 120)">
       <circle cx="5" cy="5" r="5" fill="#89e051" />
       <text x="14" y="9" class="lang-name">Shell</text>
-      <text x="14" y="9" class="lang-pct" dx="36">0.24%</text>
+      <text x="14" y="9" class="lang-pct" dx="36">0.22%</text>
     </g>
     <g transform="translate(171.66666666666666, 120)">
       <circle cx="5" cy="5" r="5" fill="#384d54" />
@@ -91,6 +91,6 @@
     <g transform="translate(323.3333333333333, 120)">
       <circle cx="5" cy="5" r="5" fill="#8b949e" />
       <text x="14" y="9" class="lang-name">Batchfile</text>
-      <text x="14" y="9" class="lang-pct" dx="64.8">0.08%</text>
+      <text x="14" y="9" class="lang-pct" dx="64.8">0.07%</text>
     </g>
 </svg>
